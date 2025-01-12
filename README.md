@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a project for the **Intelligent Systems** module. It includes data collection, rule-based systems development using ID3 Decision Trees, and deep learning analysis using neural networks.
 
-![Alt text](![image](https://github.com/user-attachments/assets/5f3b6cb8-5602-4bc4-9766-d59899a30f3e)
+![Alt text](![image](https://github.com/Deirdre24/Intelligent-Systems-Project/blob/main/decision_tree_diagram.pdf)
 )
 
 ## Contents
