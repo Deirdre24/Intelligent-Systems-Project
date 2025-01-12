@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a project for the **Intelligent Systems** module. It includes data collection, rule-based systems development using ID3 Decision Trees, and deep learning analysis using neural networks.
 
+![Alt text](url)
+
 ## Contents
 
 - **Data Collection and Aggregation**: Cleaning and organizing the dataset.
